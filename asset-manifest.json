@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/best-blair-notes/static/css/main.69033451.css",
-    "main.js": "/best-blair-notes/static/js/main.bbf747c6.js",
-    "static/js/787.a6874423.chunk.js": "/best-blair-notes/static/js/787.a6874423.chunk.js",
-    "static/media/Blair_School.jpeg": "/best-blair-notes/static/media/Blair_School.fec16c987637d3dc91f3.jpeg",
-    "index.html": "/best-blair-notes/index.html",
-    "main.69033451.css.map": "/best-blair-notes/static/css/main.69033451.css.map",
-    "main.bbf747c6.js.map": "/best-blair-notes/static/js/main.bbf747c6.js.map",
-    "787.a6874423.chunk.js.map": "/best-blair-notes/static/js/787.a6874423.chunk.js.map"
+    "main.css": "/blair-notes/static/css/main.69033451.css",
+    "main.js": "/blair-notes/static/js/main.bc20e13e.js",
+    "static/js/787.a6874423.chunk.js": "/blair-notes/static/js/787.a6874423.chunk.js",
+    "static/media/Blair_School.jpeg": "/blair-notes/static/media/Blair_School.fec16c987637d3dc91f3.jpeg",
+    "index.html": "/blair-notes/index.html",
+    "main.69033451.css.map": "/blair-notes/static/css/main.69033451.css.map",
+    "main.bc20e13e.js.map": "/blair-notes/static/js/main.bc20e13e.js.map",
+    "787.a6874423.chunk.js.map": "/blair-notes/static/js/787.a6874423.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69033451.css",
-    "static/js/main.bbf747c6.js"
+    "static/js/main.bc20e13e.js"
   ]
 }
