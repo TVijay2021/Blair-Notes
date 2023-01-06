@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+h1, h2, h3, h4, h5, h6, p {
+  font-family: 'Lato', sans-serif;
+
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+img {
+  margin-left: 20px;
+}
+
+li {
+  font-family: 'Lato', sans-serif;
+
+  margin-left: 50px;
+}
+
+input[type=text] {
+  font-family: 'Lato', sans-serif;
+
+  margin-left: 20px;
+
+  height: 40px;
+  width: 80%;
+  border: none;
+  border-bottom: 1px solid #ee6a6a;
+  color: rgba(0, 0, 0, 0.758);
+}
+
+textarea {
+  font-family: 'Lato', sans-serif;
+
+  margin-left: 20px;
+
+  height: 40px;
+  width: 80%;
+  border: none;
+  border-bottom: 1px solid #ee6a6a;
+  color: rgb(0, 0, 0);
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: rgb(194, 174, 174);
+}
+
+label {
+  font-family: 'Lato', sans-serif;
+
+  margin-left: 20px;
+
+  margin-top: 15px;
+  color: #ee6a6a;
+}
+
+button {
+  font-family: 'Lato', sans-serif;
+
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 140px;
+  height: 40px;
+  border: none;
+  background-color: #ee6a6a;
+  color: whitesmoke;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+input::file-selector-button {
+  
+  margin-left: 20px;
+  margin-top: 2px;
+  color: rgb(230, 139, 139);
+  font-weight: bold;
+  font-size: 15px;
+  padding: 1px;
+}
